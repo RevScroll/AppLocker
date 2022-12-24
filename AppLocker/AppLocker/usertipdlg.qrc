@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="png">
+    <file>res/OTE.png</file>
+    <file>res/OTM.png</file>
+    <file>res/OTT.png</file>
+  </qresource>
+</RCC>

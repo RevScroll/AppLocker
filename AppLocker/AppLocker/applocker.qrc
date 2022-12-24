@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="png">
+    <file>res/locker.png</file>
+  </qresource>
+</RCC>
